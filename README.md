@@ -34,7 +34,7 @@ I'm currently a 3rd Year student at the **University of Engineering and Technolo
 
 ## 📜 Certifications & Achievements
 
-- **Blue Team Level 1 (BTL1) Certification** (2026)
+<a href="https://images.credly.com/size/220x220/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob"><img src="https://images.credly.com/size/220x220/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" width="150"/></a>
 
 ---
 
