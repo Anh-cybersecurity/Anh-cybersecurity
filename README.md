@@ -36,6 +36,7 @@ I'm currently a 3rd Year student at the **University of Engineering and Technolo
 
 <a href="https://www.credly.com/badges/c20a821b-2f00-4fa4-9385-c82019ff2a51/public_url"><img src="https://images.credly.com/size/220x220/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" width="150"/></a>
 
+<a href="https://www.credly.com/badges/ff5a75c9-05db-4e94-a6d7-b957858cadaa/public_url"><img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="150"/></a>
 ---
 
 ## 🎯 Current Goals
