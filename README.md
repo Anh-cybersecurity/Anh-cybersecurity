@@ -45,6 +45,7 @@ I'm currently a 3rd Year student at the **University of Engineering and Technolo
 
 - Deepening my practical expertise in SIEM platforms, threat hunting, and malware analysis.
 - Actively seeking opportunities, projects, or internships to join a **Blue Team** environment.
+- Completing the CompTia Security+ Exam
 
 ---
 
