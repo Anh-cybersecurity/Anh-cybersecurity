@@ -35,6 +35,7 @@ I'm currently a 3rd Year student at the **University of Engineering and Technolo
 ## 📜 Certifications & Achievements
 
 <p align="left">
+  <a href="https://www.credly.com/badges/23d2e9bf-9045-45a6-89c3-6756ab414e41/public_url"><img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" height="56" align="middle" alt="CompTIA Security+ ce Certification"/></a>&nbsp;&nbsp;&nbsp;<b>CompTIA Security+ Certification</b> · <sub>CompTIA</sub><br/>
   <a href="https://www.credly.com/badges/c20a821b-2f00-4fa4-9385-c82019ff2a51/public_url"><img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/linkedin_thumb_blob" height="56" align="middle" alt="Blue Team Level 1 (BTL1)"/></a>&nbsp;&nbsp;&nbsp;<b>Blue Team Level 1 (BTL1)</b> · <sub>Security Blue Team · Centri</sub><br/>
   <a href="https://www.credly.com/badges/ff5a75c9-05db-4e94-a6d7-b957858cadaa/public_url"><img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" height="56" align="middle" alt="AWS Academy Cloud Foundations"/></a>&nbsp;&nbsp;&nbsp;<b>AWS Academy Cloud Foundations</b> · <sub>Amazon Web Services Training and Certification</sub><br/>
   <a href="https://www.credly.com/badges/f6e90360-9cbf-4e3f-bec9-0aedced02551/public_url"><img src="https://images.credly.com/images/d0790dc7-5127-4262-a492-1b60030b0114/linkedin_thumb_MOS_Excel.png" height="56" align="middle" alt="Microsoft Office Specialist - Excel (Office 2016)"/></a>&nbsp;&nbsp;&nbsp;<b>Microsoft Office Specialist: Excel (Office 2016)</b> · <sub>Microsoft</sub><br/>
@@ -45,7 +46,6 @@ I'm currently a 3rd Year student at the **University of Engineering and Technolo
 
 - Deepening my practical expertise in SIEM platforms, threat hunting, and malware analysis.
 - Actively seeking opportunities, projects, or internships to join a **Blue Team** environment.
-- Completing the CompTia Security+ Exam
 
 ---
 
